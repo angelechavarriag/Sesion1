@@ -35,7 +35,7 @@ button {
 
 .header li {
     display: inline-block;
-    margin: 0 20px;
+
 }
 
 .logo {
@@ -51,7 +51,7 @@ button {
     text-align: center;
     color: #025157;
     font-weight: 500;
-    margin: 20px;
+
 }
 
 .actions {
